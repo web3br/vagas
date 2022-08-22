@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/42754063/186019249-ed6a25f7-5034-4eee-ab71-ce3bc9d5a55d.png" width="400" alt="Web3 Brasil">
+  <img src="https://user-images.githubusercontent.com/42754063/186033041-560965db-07ff-44fb-8bab-2057b47f7c4e.png" width="250" alt="Web3 Brasil">
 </p>
 
 <h1 align="center">Vagas</h1>
